@@ -2,7 +2,6 @@
 #define EVAL 13
 
 #include <LiquidCrystal_I2C.h>
-#include <string.h>
 #include "postfix.h"
 
 LiquidCrystal_I2C lcd(0x27, 16, 2);
