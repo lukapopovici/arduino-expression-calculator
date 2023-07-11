@@ -1,5 +1,4 @@
 #pragma once
-#include<string.h>
 #include <Arduino.h>
 struct Element {
 	String value;
